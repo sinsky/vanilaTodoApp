@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+}
+
+.input-area {
+  background: #c1ffff;
+  height: 30px;
+  padding: 8px;
+  margin: 8px;
+  border-radius: 10px;
+}
+
+.nocomplete-area {
+  background: #c6ffe2;
+}
+
+.complete-area {
+  background: #ffffe0;
+}
